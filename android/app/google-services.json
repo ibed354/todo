@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355545609232",
+    "project_id": "todolist-bed-af86d",
+    "storage_bucket": "todolist-bed-af86d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355545609232:android:be910254f85da111af0695",
+        "android_client_info": {
+          "package_name": "com.example.to_do_list_bed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD75tkZV0xGx81LFcpB4PCX_qLyeNcXhpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
